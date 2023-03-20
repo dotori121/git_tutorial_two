@@ -1,3 +1,2 @@
-1 line
 Second line
->>>>>>> 225e35c (First commit from new_branch)
+1 line
